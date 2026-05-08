@@ -23,8 +23,8 @@ The system enables **multi-purpose reuse** of treated water — for irrigation, 
 
 | Name | Roll Number |
 |------|-------------|
-| SK. Kalesha Vali | 22HP1A0499 |
-| M. Nivas | 22HP1A04A8 |
+|  M. Nivas| 22HP1A04A8 |
+|SK. Kalesha Vali | 22HP1A0499 |
 | CH. R. V. Durga Sai | 22HP1A04B2 |
 | N. Sanjeeva Reddy | 22HP1A04B8 |
 
@@ -217,4 +217,4 @@ We sincerely thank **Mr. G. Vijay Kumar** for his invaluable guidance, and **Dr.
 
 ---
 
-<p align="center">Made with ❤️ by Team 22HP1A04 | ALIET ECE 2022–2026</p>
+<p align="center">Made with ❤️ by Team 22HP1A04A8 | ALIET ECE 2022–2026</p>
