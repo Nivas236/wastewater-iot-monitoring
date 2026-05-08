@@ -1,0 +1,9 @@
+build/
+*.elf
+*.hex
+*.bin
+secrets.h
+credentials.h
+.DS_Store
+Thumbs.db
+*.log
